@@ -2,6 +2,8 @@ version: 2.1
 
 _persist_to_workspace:
   root: /Servlet
+  path:
+    - /*
 
 orbs:
   maven: circleci/maven@1.1
