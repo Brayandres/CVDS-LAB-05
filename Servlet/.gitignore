@@ -1,1 +1,9 @@
+#Maven
 /target/
+pom.xml
+
+#Eclipse
+.settings/
+.settings
+.classpath
+.project
